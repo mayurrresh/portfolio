@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ MAYURESH KAhar // SYSTEM ONLINE ⚔️</h1>
+<h1 align="center">⚔️ MAYURESH KAHAR // SYSTEM ONLINE ⚔️</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Initializing+Developer+Profile...;Full+Stack+SaaS+Builder;Deploying+Real+World+Products..." />
