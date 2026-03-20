@@ -74,8 +74,8 @@
 
 ## 🐉 Contact
 
-📫 Reach me at: **your.email@example.com**  
-🌐 Portfolio: **yourwebsite.com**
+📫 Reach me at: **mayureshkahar777@gmail.com**  
+🌐 Portfolio: **https://my-og-portfolio-bg2tupq2t-mayuresh-kahars-projects.vercel.app/**
 
 ---
 
