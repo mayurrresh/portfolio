@@ -141,6 +141,24 @@ philosophy: >
 
 ---
 
+## ⚔️ 修行記録 — TRAINING GROUNDS (LeetCode)
+
+<div align="center">
+
+*"A Hashira does not stop sharpening the blade."*
+
+<br/>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mayurrresh?theme=dark&font=Noto+Sans&ext=heatmap&border=8B0000&background=0a0005)](https://leetcode.com/u/mayurrresh/)
+
+<br/>
+
+[![LeetCode Profile](https://img.shields.io/badge/⚔️_LeetCode-FF4500?style=for-the-badge&logo=leetcode&logoColor=FFD700)](https://leetcode.com/u/mayurrresh/)
+
+</div>
+
+---
+
 ## 🩸 鬼殺隊の心得 — THE CORPS CODE
 
 <div align="center">
