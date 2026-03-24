@@ -128,7 +128,7 @@ philosophy: >
 │  WEAPON    →  Offline-First Architecture · REST APIs     │
 │  RESULT    →  Graceful Degradation · Zero Data Loss      │
 │  FOCUS     →  System Reliability · Frontend Stability    │
-│  STATUS    →  🌊 Open Source · Ongoing                   │
+│  STATUS    →  🌊 Open Source                             │
 └──────────────────────────────────────────────────────────┘
 ```
 
